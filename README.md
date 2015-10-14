@@ -15,10 +15,16 @@ Development Setup:
   * Enter the mysql console: mysql -u root -p
   * Create a chefk database: create database chefk
 4. git clone this repository
+  * git clone https://github.com/ChefKoochooloo/cms-grails.git
+  * git clone https://github.com/nazinaz/cms-grails.git
+
 5. Update your config (chefk-config.properties) file
+  * /Users/aliamirriazi/gitchef/cms-grails/chefk-config.properties
+  * Edit chefk-config.properties with my password and save it.
+
   * dataSource.url=jdbc\:mysql\://localhost/chefk
   * dataSource.username=root
-  * dataSource.password=[your root password]
+  * dataSource.password=[your root password]nazinaz
 6. run grails
   * grails clean
   * grails compile
