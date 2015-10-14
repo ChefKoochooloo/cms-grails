@@ -16,7 +16,7 @@ environments {
   development {
     dataSource {
       driverClassName = "com.mysql.jdbc.Driver"
-      dbCreate = "" // one of 'create', 'create-drop', 'update', 'validate', ''
+      dbCreate = "update" // one of 'create', 'create-drop', 'update', 'validate', ''
       //logSql = true
     }
   }
