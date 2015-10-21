@@ -13,7 +13,7 @@ class RecipeType {
   String time
 
   static mapping = {
-    table '`recipe`'
+    table '`recipe_type`'
     cache true
     version false
   }

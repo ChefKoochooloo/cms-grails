@@ -4,6 +4,8 @@ import groovy.transform.ToString
 
 @ToString(includePackage=false, includeNames=true, excludes="")
 class Recipe {
+    
+  static hasMany = [tools: Tool, flags: Flag]
 
   Integer id
   Integer ent

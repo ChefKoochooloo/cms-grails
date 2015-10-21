@@ -3,18 +3,14 @@ package com.chefkoochooloo.dao
 import groovy.transform.ToString
 
 @ToString(includePackage=false, includeNames=true, excludes="")
-class Flag {
-    
-  static hasmany = [recipes: Recipe]
-  static belongsTo = Recipe
-    
+class RecipeTool {
+
   Integer id
   Integer ent
   Integer opt
-  String name 
 
   static mapping = {
-    table '`flag`'
+    table '`recipe_tool`'
     cache true
     version false
   }
@@ -26,12 +22,15 @@ class Flag {
 }
 
 /*
-CREATE TABLE ZFLAG ( 
+CREATE TABLE ZRECIPETOOL ( 
 Z_PK INTEGER PRIMARY KEY, 
 Z_ENT INTEGER, 
 Z_OPT INTEGER, 
-ZNAME VARCHAR );
+ZRECIPE INTEGER, 
+ZTOOL INTEGER 
+);
 
-
-CREATE TABLE ZFLAG ( Z_PK INTEGER PRIMARY KEY, Z_ENT INTEGER, Z_OPT INTEGER, ZNAME VARCHAR );
+CREATE TABLE ZRECIPETOOL ( Z_PK INTEGER PRIMARY KEY, Z_ENT INTEGER, Z_OPT INTEGER, ZRECIPE INTEGER, ZTOOL INTEGER );
+CREATE INDEX ZRECIPETOOL_ZRECIPE_INDEX ON ZRECIPETOOL (ZRECIPE);
+CREATE INDEX ZRECIPETOOL_ZTOOL_INDEX ON ZRECIPETOOL (ZTOOL);
 */
