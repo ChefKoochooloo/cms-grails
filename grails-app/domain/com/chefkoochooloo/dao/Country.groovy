@@ -5,7 +5,7 @@ import groovy.transform.ToString
 @ToString(includePackage=false, includeNames=true, excludes="")
 class Country {
 
-  static hasMany = [languages: Language, charities: CountryCharity, facts: CountryFact, recipes: Recipe]
+  static hasMany = [charities: CountryCharity, facts: CountryFact, recipes: Recipe]
 
   Integer id
   Integer population
@@ -13,6 +13,7 @@ class Country {
   String code
   String cover_url
   String flag_url
+  String language
   String name
   String wish
 

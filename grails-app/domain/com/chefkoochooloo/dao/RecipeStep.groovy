@@ -7,17 +7,14 @@ class RecipeStep implements Serializable {
 
   static belongsTo = Recipe
 
-  Integer id
-  Integer order
+  Integer step
   Integer type
   String label
   Recipe recipe
 
   static mapping = {
     table '`recipe_step`'
-    id composite: ['recipe', 'order']
-    recipe(column: '`recipe_id`')
-    order(column: '`step`')
+    id composite: ['recipe', 'step']
     label length: 500 // determine how big a label can be
     cache true
     version false
