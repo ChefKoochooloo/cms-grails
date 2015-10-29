@@ -3,18 +3,22 @@ package com.chefkoochooloo.dao
 import groovy.transform.ToString
 
 @ToString(includePackage=false, includeNames=true, excludes="")
-class Type {
+class RecipeTool {
+
+  static belongsTo = Recipe
 
   Integer id
-  String name
+  Tool tool
+  Recipe recipe
 
   static mapping = {
-    table '`type`'
+    table '`recipe_tool`'
     cache true
     version false
   }
 
   static constraints = {
-    name blank: false
+    recipe blank: false
+    tool blank: false
   }
 }
