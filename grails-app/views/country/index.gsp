@@ -62,5 +62,13 @@
 				<g:paginate total="${countryInstanceCount ?: 0}" />
 			</div>
 		</div>
+          <!-- script references -->
+  <content tag="javascript">
+    <script type="text/javascript" charset="utf-8">
+      $(document).ready(function() {
+alert('Hi Kazu!!!');
+      });
+    </script>
+  </content>
 	</body>
 </html>
