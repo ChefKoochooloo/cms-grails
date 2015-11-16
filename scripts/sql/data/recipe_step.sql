@@ -188,15 +188,15 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,1,32,'With a whis
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,1,32,'Squeeze 1/2 lemons into the mixture.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,32,'Add the shrimp to the dressing and mix.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,0,32,'Spoon mixture into the tomatoes.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Warm the milk to 105-110ºF. Sprinkle the yeast over the warm milk and let it sit until it begins to get foamy. About 5 minutes.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,33,'In s bowl , stir together the butter, sugar, salt, and egg.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,33,'Pour in the milk/yeast mixture and the flour and make sure to mix at the same time.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,33,'Knead for about 5 minutes until it forms a soft sticky dough. The mixture will seem quite wet at first, but will form a smooth soft dough once kneaded. If the mixture is too wet after kneading, add more flour 1 TBSP at a time until a soft but sticky dough forms.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Pour in all of the sugar cube pieces. Mix until evenly incorporated.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Place the dough in a clean bowl with a towel or loose plastic wrap over it and allow to rise to double in size. About 1½ hours.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Break the dough into small pieces, about 2½ oz each. You should get about 10-12 pieces.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Heat your waffle iron up. Remember, sugar begins to burn at temps above 350ºF. If your waffle iron doesn\'t have a temp dial you may have to do trial and error to see the setting that will give you the best caramelization without burning. Most waffle irons heat much hotter than 350.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Remove the waffles from the iron with a spatula (caramelized sugar is really hot!) once the waffle is golden, puffed, and crispy.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Warm the milk to 105-110ºF. Sprinkle the yeast over the warm milk and let it sit until it begins to get foamy. About 5 minutes.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,33,'In s bowl , stir together the butter, sugar, salt, and egg.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,33,'Pour in the milk/yeast mixture and the flour and make sure to mix at the same time.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,33,'Knead for about 5 minutes until it forms a soft sticky dough. The mixture will seem quite wet at first, but will form a smooth soft dough once kneaded. If the mixture is too wet after kneading, add more flour 1 TBSP at a time until a soft but sticky dough forms.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Pour in all of the sugar cube pieces. Mix until evenly incorporated.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Place the dough in a clean bowl with a towel or loose plastic wrap over it and allow to rise to double in size. About 1½ hours.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Break the dough into small pieces, about 2½ oz each. You should get about 10-12 pieces.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Heat your waffle iron up. Remember, sugar begins to burn at temps above 350ºF. If your waffle iron doesn\'t have a temp dial you may have to do trial and error to see the setting that will give you the best caramelization without burning. Most waffle irons heat much hotter than 350.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,33,'Remove the waffles from the iron with a spatula (caramelized sugar is really hot!) once the waffle is golden, puffed, and crispy.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,34,'Warm the milk to 105-110ºF. Sprinkle the yeast over the warm milk and let it sit until it begins to get foamy. About 5 minutes.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,34,'In the bowl , stir together the butter, sugar, salt, and egg.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,34,'Pour in the milk/yeast mixture and the flour and make sure to mix at the same time.');
@@ -618,19 +618,19 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,1,88,'Place the m
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(7,0,88,'Place the baking dish into the oven. ');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(8,0,88,'After 20 minutes pull out Clafoutti and let cool for 5 minutes.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(9,0,88,'Cut and serve.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Heat oven to 375°F ');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Set a large pot of salted water (approx. 5 liters) to boil.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Add penne and potatoes to the salted water.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Stir to make sure pasta doesn’t stick together.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Cook until tender, about 15 minutes. Drain penne and potatoes.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Heat butter/oil over medium-low heat in a frying pan.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Add onions to the pan and fry them until golden brown.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Combine milk/cream with salt and pepper.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'In an ovenproof casserole dish, place 1/2 of the penne and potatoes. Let the Little Chef complete their duties before continuing.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Sprinkle with 1/2 of the grated cheese over the penne-potatoes.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Top with the remaining 1/2 of the penne-potatoes.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Pour the seasoned milk/cream evenly over the top.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Spread the browned onions on top.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Heat oven to 375°F ');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Set a large pot of salted water (approx. 5 liters) to boil.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Add penne and potatoes to the salted water.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Stir to make sure pasta doesn’t stick together.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Cook until tender, about 15 minutes. Drain penne and potatoes.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'Heat butter/oil over medium-low heat in a frying pan.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Add onions to the pan and fry them until golden brown.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Combine milk/cream with salt and pepper.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,91,'In an ovenproof casserole dish, place 1/2 of the penne and potatoes. Let the Little Chef complete their duties before continuing.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Sprinkle with 1/2 of the grated cheese over the penne-potatoes.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Top with the remaining 1/2 of the penne-potatoes.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Pour the seasoned milk/cream evenly over the top.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,91,'Spread the browned onions on top.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,94,'Preheat oven to 425°F.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,94,'Toss your diced bread in two tablespoons olive oil, 2 cloves minced garlic, 1 teaspoon salt and 1/2 teaspoon pepper. ');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,94,'After chef koochooloo does step 1 bake for 10 minutes until golden brown.');
@@ -982,15 +982,15 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(8,0,22,'Brush expos
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(9,1,22,'Spread the breadcrumbs over 2/3 of the dough and pat down evenly.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(10,0,22,'Fold other side of dough up and over filling to form a roll. Brush with butter. Bake at 400°F for 20 minutes and then at 350°F for 40-60 minutes longer. Remove from oven.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(11,0,22,'Transfer to a serving platter with a large spatula (or two). Cut into 1½-inch wide slices.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,129,'Cut the potatoes in half and place them in a large pot and cover with cold water. Add some salt, and cook until a easily pierced with a fork.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,129,'Once the potatoes are finished boiling, place them in a bowl full of ice.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,129,'Cut the potatoes in half and place them in a large pot and cover with cold water. Add some salt, and cook until a easily pierced with a fork.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,129,'Once the potatoes are finished boiling, place them in a bowl full of ice.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,129,'Grate onion into a large bowl and finely chop the parsley.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,129,'Peel the potatoes and mash them.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,129,'Peel the potatoes and mash them.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,1,129,'Add the meat, 1/2 bread crumbs, 2 eggs, 3 tbsp parsley and spices, salt, pepper to the bowl.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,129,'Mix with hands. (You might want to wear gloves, this gets messy!)');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,129,'Scoop individually with your hands and roll each into a ball, then flatten. (Iranians usually make oval shapes, but you can have fun with various geometric shapes. Experiment with making squares, triangles, pentagons, etc.) Give to Big Chef to cook.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,129,'After the Little Chef has performed their duties, heat olive oil in a pan on low heat. Place the patties in the pan with some distance between each. (Tip: Take a very small piece of the one of the patties and place in the pan, fry it a bit, then taste it to assess whether you need any more spices.)');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,129,'Once all the kotlets are placed in the pan, fry on low heat. Stay near! Flip them when the kotlets seem crispy and have darkened a bit.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,129,'Mix with hands. (You might want to wear gloves, this gets messy!)');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,1,129,'Scoop individually with your hands and roll each into a ball, then flatten. (Iranians usually make oval shapes, but you can have fun with various geometric shapes. Experiment with making squares, triangles, pentagons, etc.) Give to Big Chef to cook.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,129,'After the Little Chef has performed their duties, heat olive oil in a pan on low heat. Place the patties in the pan with some distance between each. (Tip: Take a very small piece of the one of the patties and place in the pan, fry it a bit, then taste it to assess whether you need any more spices.)');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(NULL,0,129,'Once all the kotlets are placed in the pan, fry on low heat. Stay near! Flip them when the kotlets seem crispy and have darkened a bit.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,134,'Cut the leeks for the confit.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,134,'In a stand mixer, mix flour and salt and add butter in small pieces.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,134,'Add all ice water and cider vinegar in bowl.');
@@ -1852,7 +1852,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,236,'Hard boil 
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,235,'Crush the different types of fruit individually, to be sure all the skins are broken and the fruit is pulpy.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,236,'Wash the 2 tomatoes.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,235,'Put all the fruit in a large bowl with the sugar and cranberry juice and stir to mix.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,228,'Cut bread');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,228,'Cut bread');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,236,'Peel the tomatoes, remove the green stalk and seeds.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,235,'Leave to macerate for 2 hours.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,0,236,'Cut off hard crust from the bread.');
@@ -2088,7 +2088,7 @@ and puff up).');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(9,0,258,'Cook on other side for about 1 minute. Remove from fryer with slated spoon.
 
 Should be a light golden brown.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(9,1,258,'Turn mahamri as soon as it turns light brown.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(9,1,258,'Turn mahamri as soon as it turns light brown.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,256,'Pour 4 cup milk, 1 cup sugar, and 1 tsp cardamom seeds in a pot over the stove.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,256,'Bring to a slow boil.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,256,'Cut the bread loaf in thick slices.');
@@ -2111,7 +2111,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,259,'Finally di
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,253,'Make the filling by mixing 10 sliced apples, 2 cups sugar, 1/2 tsp salt, 2 tbs cinnamon, 1/2 lbs melted butter and a splash of lemon juice (raisins and ground walnuts can be added if desired).
 Set aside.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,260,'Thinly slice the butternut squash');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,260,'Juice the lemon');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,260,'Juice the lemon');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,260,'Cut the apple into half inch chunks');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,1,260,'Slice the 3 red onions into thin slices.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,253,'In a large bowl, blend 2 cups flour, 1 cup sour cream, 1 tsp vinegar, 1/4 tsp of salt, 2 egg yolks, 1 tsp baking powder, 1 tbs of melted butter and 1/2 cup warm water.
@@ -2890,7 +2890,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(8,0,186,'Bring the 
 Hold a spoon or a ladle under the surface of the liquid and gently drop the tangyuan onto the spoon, then release it into the syrup (this helps prevent the tangyuan from sticking to the bottom). Do not crowd too many of them in the pot. When the tangyuan float, they are done.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,1,343,'Mix the dressing ingredients together.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,343,'After the dressing and before the bacon make sure to refrigerate for 30 minutes.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,0,343,'Cook the bacon & set aside to cool & chop before using.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,0,343,'Cook the bacon & set aside to cool & chop before using.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,1,343,'Layer your salad it goes:
 lettuce
 green peppers
@@ -3103,7 +3103,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,53,'Heat 1 tbsp
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,0,53,'Cook veal in batches for 3-4 minutes until browned.
 Transfer to a plate.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,1,53,'With adult supervision add remaining 1 tbsp oil into the same pan and saute 1 chopped onion, 1 sliced carrot and 2 chopped garlic cloves until soft and lightly golden, about 4-5 minutes.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,2,'After all is mixed refrigerate, covered, until ready to serve.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,2,'After all is mixed refrigerate, covered, until ready to serve.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,53,'Add 2 tbsp brandy (orange juice) and cook until reduced by half.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,1,53,'Add 1 tbsp paprika.
 Cook, stirring for 1 minute.');
@@ -3126,7 +3126,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(19,0,53,'Add hot, d
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,0,303,'The syrup is done when you see the bottom of the pan after passing a spoon through it.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(8,1,35,'Sprinkle the parsley on the soup for garnish before serving.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(9,0,35,'Serve after Little Chef has added the parsley gamish');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(7,0,3,'Cover and simmer on low for about two hours.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(7,0,3,'Cover and simmer on low for about two hours.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(8,0,3,'It is done when the sauce is thickened and the meat is tender and falls apart.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,54,'Chop 1 large onion, 3 cloves garlic, dice 14.5 oz tomatoes (if not using a can).');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,54,'Cut 2-3 lbs whole chicken into pieces.');
@@ -3150,7 +3150,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,1,37,'Once cooled
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,37,'Stir until mixed, but do not over stir or potatoes will become mushy.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,0,310,'To make the sauce add a 1/4 cup of mayonnaise in a small bowl and add 2 tbsp. soy sauce. Mix together until slightly brown');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,1,37,'Add salt and pepper to taste.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,0,310,'Before you start, make sure your hands are dry in order to keep nori dry and crispy. Place the seaweed on the palm of your hand (shiny side down) and put a thin layer of rice on the nori.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,0,310,'Before you start, make sure your hands are dry in order to keep nori dry and crispy. Place the seaweed on the palm of your hand (shiny side down) and put a thin layer of rice on the nori.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,310,'Dab on a little of the mayonnaise mixture on the rice and place fillings on top.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(7,1,37,'Refrigerate for at least 1 hour to let the flavors meld.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,0,310,'Place fillings (shiso leaf, cucumber, raw fish and daikon radish sprouts) vertically across middle of middle of the rice.');
@@ -3159,8 +3159,8 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,358,'Boil 1 lb.
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,358,'Then boil the spinach for 30 seconds. Drain and cut the spinach into 2 inch pieces.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,358,'Cut the 2 leeks into 1-inch diagonal slices; and the chicken breast into 4 equal slices.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,0,358,'Divide the udon noodles into four bowls. Arrange the spinach, leeks, chicken, 6 oz. of kamaboko, sliced, and 4 shiitake mushrooms evenly on top of the noodles, and around the sides. Pour the boiling stock equally into the bowls.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,1,281,'Cut and discard thick ribs from leaves of cabbage.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,281,'Thinly slice remaining cabbage core; set aside.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,1,281,'Cut and discard thick ribs from leaves of cabbage.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,281,'Thinly slice remaining cabbage core; set aside.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,0,281,'Heat oil in a 4-qt saucepan over medium-high heat.
 Add 8 oz ham.
 Cook until lightly browned, 3-4 minutes.');
@@ -3374,8 +3374,8 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,1,376,'Season wit
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,376,'Put the chicken on top of the rice mixture, cover them with thyme.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,0,376,'Pour the bullion over the meat (it should cover the rice with vegetables, not meat). Decorate with olives.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(7,1,376,'Bake about 1 hour (the time depends on the chicken size) until golden brown.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,376,'During baking time add some bullion, if the rice seems to be dry add more fluid.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,0,376,'Pour the bullion over the meat (it should cover the rice with vegetables, not meat). Decorate with olives.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,376,'During baking time add some bullion, if the rice seems to be dry add more fluid.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,0,376,'Pour the bullion over the meat (it should cover the rice with vegetables, not meat). Decorate with olives.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,377,'Preheat your oven to 350 degrees F.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,377,'Mix all the dry ingredients together in a bowl except the walnuts.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,377,'Make a well in the middle of the dry ingredients and add the wet ingredients except the chocolate. Mix well with a wooden spoon (or maybe you electric mixer - but it is a very thick mix so depends how good your mixer is, I\'ve always been a bit old fashioned and like mixing my cake mixes by hand).');
@@ -3661,9 +3661,9 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,0,422,'Cut the ro
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,423,'Cut 3 lbs of chicken in half.
 Mince 2 cloves of garlic.
 Grate ginger for 1 tbsp.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,423,'Rinse chicken halves.
-Pat dry with paper towels.
-Place chicken, cut side down, in a a 9x13 inch baking dish.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,423,'Rinse chicken halves.
+-- Pat dry with paper towels.
+-- Place chicken, cut side down, in a a 9x13 inch baking dish.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,423,'Combine 3/4 cup granulated sugar, 3/4 cup soy sauce, ginger and garlic in a medium mixing bowl.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,1,423,'Mix well.
 Pour mixture over chicken.');
@@ -3864,7 +3864,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(8,1,437,'Add grated
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,438,'Add cornstarch, flour, baking powder, baking soda and salt in medium bowl. Whisk briefly to combine. Set aside.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,438,'In stand mixer bowl add butter and sugar.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,438,'Mix on medium speed. Stop mixer to scrape bowl with a rubber spatula once. Mix until light in color and fluffy (3 minutes).');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,438,'Mix on medium speed. Stop mixer to scrape bowl with a rubber spatula once. Mix until light in color and fluffy (3 minutes).');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,438,'Mix on medium speed. Stop mixer to scrape bowl with a rubber spatula once. Mix until light in color and fluffy (3 minutes).');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,1,438,'Add egg yolks, brandy/orange juice and vanilla extract.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,438,'Mix until incorporated (30 seconds). Stop mixer and scrape down sides of bowl.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,0,438,'On low speed, gradually add the flour mixture and mix until just incorporated with no visible white pockets (30 seconds).');
@@ -3902,7 +3902,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(17,0,439,'Layer the
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(18,0,439,'Pour evenly over the dolmeh: 1 cup water, 1/2 cup lemon juice.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(19,1,439,'Place a plate on top of the dolmeh, covering as much as you can. This keeps the dolmeh from expanding and opening up while cooking.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(20,0,439,'Cover the pot and cook over low heat for 1 hour.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(20,0,439,'Cover the pot and cook over low heat for 1 hour.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(20,0,439,'Cover the pot and cook over low heat for 1 hour.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(21,0,439,'Remove plate.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(22,0,439,'Dolmeh can be served immediately warm, at room temperature, or chilled.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(23,0,439,'You can also keep the dolmeh refrigerated in an air-tight container
@@ -4008,7 +4008,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,455,'In a small
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,456,'Heat oven to 450 degrees.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,456,'Stir together sugar, flour and salt; add eggs and milk.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,456,'Beat with electric mixer until well blended. This will be a very thin batter. Melt butter in a baking dish. Make sure all sides of the pan are coated.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,456,'Pour batter in the pan and bake for 30 minutes. It will puff then flatten when it gets cool. Serve in small squares.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,456,'Pour batter in the pan and bake for 30 minutes. It will puff then flatten when it gets cool. Serve in small squares.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,457,'Mix the ground beef, breadcrumbs, onion, egg, cream, salt, and allspice in a bowl with your hands until evenly mixed. Roll the mixture into golf ball-sized balls.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,457,'In a large skillet over medium heat, melt the butter. Cook about half the meatballs in the melted butter until evenly browned on all sides, 5 to 7 minutes; remove to a plate and repeat with the remaining meatballs, keeping the liquid in the skillet when finished.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,457,'Sift the flour into the skillet drippings; cook the flour in the skillet drippings until brown, 2 to 3 minutes. Slowly stream the milk into the skillet while whisking vigorously; pour the cream into the mixture and stir until smooth. If you end up with some lumps you can pour the gravy through a strainer. Return all the meatballs to the skillet; stir to coat with the gravy. Bring the mixture to a simmer and cook until the meatballs are cooked through, 15 to 20 minutes.');
@@ -4169,7 +4169,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,1,478,'Add the nu
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(7,0,478,'To assemble the dish, add the macaroni to a baking dish, then layer in the peas and fish. Pour the cheese sauce over the macaroni dish and sprinkle the breadcrumbs on top.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(8,0,478,'Bake for 25-30 minutes, or until golden brown on top.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,479,'Peel the prawn head.  In a hot wok, add a tbsp oil and fry the prawn head until fragrant. Add fried prawn head into chicken stock and boil for 30mins to 1 hour.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,479,'Peel the prawn head.  In a hot wok, add a tbsp oil and fry the prawn head until fragrant. Add fried prawn head into chicken stock and boil for 30mins to 1 hour.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,479,'Peel the prawn head.  In a hot wok, add a tbsp oil and fry the prawn head until fragrant. Add fried prawn head into chicken stock and boil for 30mins to 1 hour.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,479,'Add the pork belly into the stock and boil for 45mins. Take out the pork belly and cool. Cut pork belly into strips.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,479,'Blanch prawns and squid in boiling water. Drain and cut the squid into rings.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,1,479,'Into a hot wok, add 1 tbsp of oil, fry the garlic until fragrant. Add in egg and scramble.');
@@ -4478,7 +4478,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,0,525,'Stir fry c
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,525,'Stir Fry zucchini in sesame oil, add salt and pepper to taste. Set aside.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,0,525,'Stir Fry spinach in sesame oil with the remaining garlic, add salt and pepper to taste. Set aside.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,0,525,'Cook the eggs over easy or sunny side up, but leave the yolk a little runny.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,0,525,'Cook the eggs over easy or sunny side up, but leave the yolk a little runny.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,0,525,'Cook the eggs over easy or sunny side up, but leave the yolk a little runny.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(7,0,525,'Stir Fry ground beef until cooked through. Remove from pan and set aside. (for chicken, stir fry chicken, remove from pan, then thicken marinade in the pan).');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(8,1,525,'Mix the gochujang, sugar, and sesame seeds.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(9,1,525,'Divide and arrange the vegetables neatly over the 5 bowls of rice, add ground beef, and place the egg on top.');
@@ -4684,7 +4684,7 @@ and vanilla, beating until smooth.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,551,'Gently stir in flour, baking soda and salt until well combined.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,0,551,'Pour into prepared pan and bake 25 to 30 minutes or until set.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(7,0,551,'Cool completely and cut in 16 squares with hot wet knife.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,551,'Gently stir in flour, baking soda and salt until well combined.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,1,551,'Gently stir in flour, baking soda and salt until well combined.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(8,1,551,'Store in the refrigerator.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,552,'In a mixing bowl, combine tuna, eggs, carrot, breadcrumbs,
 
@@ -5143,7 +5143,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,613,'Cut the do
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,0,613,'Bake cookies for about 12 to 15 minutes, or until they are lightly browned on top. Remove to racks and cool completely.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,1,613,'While the cookies bake, bring the water and 1/2 cup sugar to a rapid boil in a saucepan over high heat. Stir to dissolve sugar and let boil for 10 to 15 minutes. Remove and cool to room temperature. Stir in the orange flower water.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(5,0,613,'Put powdered sugar in a large bowl. To finish, dip each cookie first in the sugar syrup to wet. Then toss each cookie in the confectioner\'s sugar to coat well. Place on a rack to dry and repeat with the rest of the cookies.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(11,0,172,'When bobalki are cool, break the balls apart if they have attached to each other. Put a little warm water on rolls so poppy seeds can stick.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(11,0,172,'When bobalki are cool, break the balls apart if they have attached to each other. Put a little warm water on rolls so poppy seeds can stick.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,615,'Preheat the oven to 350 degrees. Mix the white flour with the sugar, and crushed cardamom.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,615,'Next, add the corn oil and mix well. Make the dough into two inch round balls and put them on a cookie sheet and bake for 15min, or until lightly browned.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,615,'Sprinkle finely ground pistachios on top of the cookies while they are still hot');
@@ -5215,11 +5215,11 @@ minutes, using a pastry bag with a large nozzle, put 7-8 pastries in a pan
 containing the heated olive oil. Start frying the pastry over low heat, increase
 
 heat when pastry puffs up a bit and fry until golden.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,622,'Stir the mixture constantly with a wooden spool and continue
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,622,'Stir the mixture constantly with a wooden spool and continue
+--
+-- until mixture leaves the sides of the pan and forms a ball. This should take 6
 
-until mixture leaves the sides of the pan and forms a ball. This should take 6
-
-minutes, then remove pan from heat and set aside to cool.');
+-- minutes, then remove pan from heat and set aside to cool.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,622,'Remove fried pastry with a perforated spoon, draining away the
 
 oil, then put into the syrup. Strain off the syrup, place Tulumba on serving plate
@@ -5249,15 +5249,15 @@ onion for 15 minutes.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,624,'Little Chef Duites: In another saucepan, melt the butter and then add flour,
 
 cottage cheese and black pepper, salt and chili pepper to taste.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,624,'In a saucepan, preheat the olive oil and sauté the meat and
-
-onion for 15minutes.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,624,'In a saucepan, preheat the olive oil and sauté the meat and
+--
+-- onion for 15minutes.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,0,624,'Mix all the ingredients together in the saucepan and place in a
 
 preheated 350 oven for 15 minutes.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,624,'In a saucepan, preheat the olive oil and sauté the meat and
-
-onion for 15minutes.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,624,'In a saucepan, preheat the olive oil and sauté the meat and
+--
+-- onion for 15minutes.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,625,'Use a juicer to extract the nutrient-dense juice from the oranges, apples, celery, lemon and ginger. The juice is best if you drink it right away!');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(6,0,114,'If you have more time, you can add phyllo dough to the recipe and bake it to make if more authentic.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,614,'Heat oil in skillet and fry potatoes until light brown and soft.');
@@ -5363,8 +5363,8 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,638,'Add green 
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,639,'Bring 4-6 cups of water to a boil.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,1,639,'Stir the flour, baking powder, and salt together. Microwave the milk and butter in a microwave-safe bowl on high until just warm (do not over-heat), about 1 minute. Stir the warmed milk mixture into the flour mixture with a wooden spoon until incorporated and smooth.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,639,'Carefully drop dumplings by tablespoon into the water, about 1/4 inch apart (you should have about 18 dumplings). Reduce the heat to low, cover, and cook until the dumplings have doubled in size, 15-18 minutes.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,1,639,'Put 4 cps of sugar in a medium sized heavy pot, and with the help of Big Chef, cook on medium high heat until it begins to caramelize, stirring constantly.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,639,'When the sugar has browned, carefully begin adding the coconut milk until you get the consistency you want. Transfer the dumplings into a bowl and cover with the syrup, stir until all dumplings are coated, then serve!');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,1,639,'Put 4 cps of sugar in a medium sized heavy pot, and with the help of Big Chef, cook on medium high heat until it begins to caramelize, stirring constantly.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,0,639,'When the sugar has browned, carefully begin adding the coconut milk until you get the consistency you want. Transfer the dumplings into a bowl and cover with the syrup, stir until all dumplings are coated, then serve!');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,640,'Wash and rinse the rice thoroughly in several water baths (about three times). Place in a large bowl, cover with water. Add the juice of half a lime with its pulp. Soak for at least 1 hour, preferably 2. Drain as much water as possible.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,640,'Fill a large pot with about 3 quarts of water. Bring to a boil. Add the rice. Bring the liquid back to a boil, then immediately lower the heat to a gentle boil. That way the rice will cook evenly all the way through. Cook for about 15 minutes at a bubbly simmer.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,640,'Add salt half-way through the cooking process (it will enhance the natural flavor of the rice and it will be more tender). Keep stirring the rice every now and then so that it doesn\'t stick to the bottom of the pot. Brown rice tends to take longer to cook. Cook for another 30-35 minutes until the grains are tender. Drain the liquid from the rice using a fine mesh colander.');
@@ -5738,7 +5738,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(4,1,715,'In a servi
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,716,'Combine water, tea, cardamom and fennel seeds into large saucepan and simmer over low heat for 3 minutes.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,716,'Add milk and simmer addition 2 minutes.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,716,'Strain tea into cups, add sugar or honey taste.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,716,'Strain tea into cups, add sugar or honey taste.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,716,'Strain tea into cups, add sugar or honey taste.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,717,'Heat 1T oil in a large skillet, sauté sauerkraut for a few minutes, then add enough water to cover, place lid on pan and simmer over low heat for 30 minutes. Drain and set aside.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,717,'Heat remaining oil in a small skillet and sauté onion until tender. Place soup bones in stockpot, cover them completely with water.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,717,'Bring to boil and cook uncovered for about 1 hour. Remove bones to cool.');
@@ -5804,7 +5804,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,727,'Preheat th
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,0,728,'Preheat oven to 475 degree. Spray baking dish with nonstick cooking spray.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,728,'Combine evaporated milk and mustard in shallow bowl. Combine bread crumbs and cheese in separate shallow bowl.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,0,728,'Dip chicken into milk mixture, coating both sides, then into bread crumb mixture. Place in prepared dish.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,728,'Dip chicken into milk mixture, coating both sides, then into bread crumb mixture. Place in prepared dish.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(2,1,728,'Dip chicken into milk mixture, coating both sides, then into bread crumb mixture. Place in prepared dish.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(3,0,728,'Bake for 15 to 20 minutes or until chicken is golden brown and no longer pink in center.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,729,'With the help of Big Chef, process garlic until finely chopped in food processor. Add remaining ingredients, process until smooth.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,1,729,'Transfer hummus to a bowl and chill in the fridge for one hour.');
@@ -5970,7 +5970,7 @@ INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(9,1,757,'Add some w
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(10,1,757,'Place the noodle strips carefully on top of the vegetables, so that they keep sticking together in stacks. Close the lid. The lid must remain closed until the end, because the noodles are cooked by the steam from the boiling water below.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(11,0,757,'Keep the water boiling for about 15 mins. First on medium heat for the steam to replace the remaining air in the pot, then on low heat.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(12,0,757,'Take a small cutting board to fan fresh air into the pot, the noodles turn dry at the surface, lose their stickiness, and change their color some more. Stir everything to mix the ingredients.');
-INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(12,0,757,'Take a small cutting board to fan fresh air into the pot, the noodles turn dry at the surface, lose their stickiness, and change their color some more. Stir everything to mix the ingredients.');
+-- INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(12,0,757,'Take a small cutting board to fan fresh air into the pot, the noodles turn dry at the surface, lose their stickiness, and change their color some more. Stir everything to mix the ingredients.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(13,1,757,'Add some spring onion rings to garnish.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(0,1,758,'Put the cornflour in a small bowl and stir in the soy sauce, vinegar, black bean sauce and spicy powder and set aside.');
 INSERT INTO `recipe_step` (step,type,recipe_id,label) VALUES(1,0,758,'Brush a little oil in a large wok and heat on high until wok is hot and add half of the lamb and stir fry for 2 minutes or until lamb is almost cooked and transfer to a plate.');

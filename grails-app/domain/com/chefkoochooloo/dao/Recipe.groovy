@@ -9,7 +9,6 @@ class Recipe {
   static hasMany = [tools: RecipeTool, tags: RecipeTag, ingredients: RecipeIngredient, images: RecipeImage, steps: RecipeStep, likes: LikeRecipe]
 
   Integer id
-  Integer type
   String name
   String presentation
   String time // TBD: this should be a Date
@@ -23,6 +22,8 @@ class Recipe {
   }
 
   static constraints = {
+    user nullable: true
     name blank: false
+    presentation size: 1..500
   }
 }

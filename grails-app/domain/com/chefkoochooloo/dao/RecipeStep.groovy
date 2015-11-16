@@ -22,6 +22,6 @@ class RecipeStep implements Serializable {
 
   static constraints = {
     type min: 0, max: 1
-    label size: 1..500, blank: false
+    label size: 1..1000, blank: false
   }
 }

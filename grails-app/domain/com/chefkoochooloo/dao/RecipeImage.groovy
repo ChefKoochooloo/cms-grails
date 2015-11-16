@@ -22,5 +22,7 @@ class RecipeImage {
 
   static constraints = {
     url size: 1..500, blank: false
+    presentation nullable: true
+    alt nullable: true
   }
 }

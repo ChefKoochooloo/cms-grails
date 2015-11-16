@@ -27,7 +27,7 @@ class Country {
 
   static constraints = {
     name blank: false
-    cover_url size: 1..500
+    cover_url size: 1..500, nullable: true
     flag_url size: 1..500
   }
 }
